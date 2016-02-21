@@ -1,0 +1,11 @@
+tax_id,parent_id,rank,tax_name,root,kingdom,phylum,class,order,family,genus,species
+Root,Root,root,Root,Root,,,,,,,
+k__SAR11,Root,kingdom,k__SAR11,Root,k__SAR11,,,,,,
+p__Ib,k__SAR11,phylum,p__Ib,Root,k__SAR11,p__Ib,,,,,
+p__Ia,k__SAR11,phylum,p__Ia,Root,k__SAR11,p__Ia,,,,,
+p__IIIb,k__SAR11,phylum,p__IIIb,Root,k__SAR11,p__IIIb,,,,,
+p__IIIa,k__SAR11,phylum,p__IIIa,Root,k__SAR11,p__IIIa,,,,,
+p__II,k__SAR11,phylum,p__II,Root,k__SAR11,p__II,,,,,
+p__IV,k__SAR11,phylum,p__IV,Root,k__SAR11,p__IV,,,,,
+p__Ic,k__SAR11,phylum,p__Ic,Root,k__SAR11,p__Ic,,,,,
+p__V,k__SAR11,phylum,p__V,Root,k__SAR11,p__V,,,,,

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "phylo_model": "phylo_modelFRt0NX.json", 
+        "taxonomy": "sar11_16Ssequences_42aligned_taxonomy.csv", 
+        "tree": "graftmBy_HZP.tree", 
+        "aln_fasta": "sar11_16Ssequences_42aligned_deduplicated_aligned.fasta", 
+        "seq_info": "sar11_16Ssequences_42aligned_seqinfo.csv", 
+        "tree_stats": "graftmZ8E5yJ.tree_log"
+    }, 
+    "rollback": null, 
+    "log": [
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2015-06-29 10:51:19", 
+        "format_version": "1.1", 
+        "locus": "sar11_16Ssequences_42aligned"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "phylo_model": "ca41438fe0b79bd04be544e847ddb187", 
+        "taxonomy": "9e0ef99efd0cf2c3ebbc0b889c956554", 
+        "tree": "641abc6032ea7be7e3dc550247a22436", 
+        "aln_fasta": "28585cb2a4d6b7b4efee7bd8613431ce", 
+        "seq_info": "70c0ae18df6537e9ac8403a131236637", 
+        "tree_stats": "fb191f8f4efdc1dd5a69ba61a518fbcb"
+    }
+}

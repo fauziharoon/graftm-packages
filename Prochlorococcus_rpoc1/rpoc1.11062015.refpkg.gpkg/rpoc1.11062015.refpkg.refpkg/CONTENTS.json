@@ -1,0 +1,29 @@
+{
+    "files": {
+        "phylo_model": "phylo_model0KBcvY.json", 
+        "taxonomy": "rpoc1_prosynsar_nt_alignment_taxonomy.csv", 
+        "tree": "graftmRwLEhP.tree", 
+        "aln_fasta": "rpoc1_prosynsar_nt_alignment.aln.fa", 
+        "seq_info": "rpoc1_prosynsar_nt_alignment_seqinfo.csv", 
+        "tree_stats": "graftmYK3T1l.tree_log"
+    }, 
+    "rollback": null, 
+    "log": [
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2015-06-11 15:39:01", 
+        "format_version": "1.1", 
+        "locus": "rpoc1_prosynsar_nt_alignment"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "phylo_model": "c49d5875ac96a7faa686189f8f41803a", 
+        "taxonomy": "90dd53fa714211e8683f3d39067a2d45", 
+        "tree": "32ddba57b1c7314151e42e1b80e42334", 
+        "aln_fasta": "87eac60ecbd130a3806e81e3f60a6ab4", 
+        "seq_info": "58627f6f47c2a57f4087af633fb6bddd", 
+        "tree_stats": "35ce9453815f8f5335d3a9edaf436407"
+    }
+}
